@@ -80,10 +80,10 @@ and production-ready backend logic.
 
 ## 📜 Certifications
 
-- Fundamentals of AI & Machine Learning  
-- Python for Data Science   
-- Git & GitHub for Beginners  
-- Computer Networks (Bits & Bytes)
+-Certification Skills: Fundamentals of AI and ML, The Bits and Bytes of Computer Network, Python Essentials,
+Python for Data Science, Cyber Security Analyst, Salesforce Developer, Prompt Design in Vertex AI, Git & GitHub
+for beginners, Google Cloud Generative AI
+-Global Certificate: AWS Certified Cloud Practitioner certification
 
 ---
 
